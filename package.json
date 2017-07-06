@@ -1,0 +1,28 @@
+{
+  "name": "es6z80",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kageurufu/es6z80.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kageurufu/es6z80/issues"
+  },
+  "homepage": "https://github.com/kageurufu/es6z80#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "binary-loader": "0.0.1",
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.0.0"
+  }
+}
